@@ -28,12 +28,12 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
  Tip: Your custom data structure can be composed of or extensions of data structures that you have learned and used in previous programming assignments.  We're looking for decisions about how to build a high-level data structure that will likely have lower-level components.
 
 ## Problem Description
-
+It is often difficult to keep track of all of events in a day and their details, especially for students. So we need a special calendar to manage all of our events including lectures, exams, assignments.
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-* Planner
+* Calendar
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
