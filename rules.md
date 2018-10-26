@@ -9,19 +9,19 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-ask team members what they want to do
+Ask team members what they want to do and assign it to them.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-Using github
+Using github to track the progress.
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+Discuss them with teammates.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-Check the calendadr repeatly.
+Check the calendadr repeatly and try to finish the assignment efficiently.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
