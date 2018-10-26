@@ -64,11 +64,11 @@ calendar days events and details
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-1 Event
-2 Calendar
-3 CalendarGUI
-4 Main
-5 Test
+* Event
+* Calendar
+* CalendarGUI
+* Main
+* Test
 
 
 Name each interface or class and briefly describe its function or purpose.
