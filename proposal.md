@@ -55,7 +55,7 @@ Input: event and task details
 * 1
 Event: Computer Science 400
 Time: 8:50 - 9: 40
-Note:
+Note: ---------------
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
@@ -64,8 +64,8 @@ calendar days events and details
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-1 events
-2 calendar
+1 Event
+2 Calendar
 3 CalendarGUI
 4 Main
 5 Test
@@ -73,10 +73,10 @@ calendar days events and details
 
 Name each interface or class and briefly describe its function or purpose.
 
-Event class (store time, name, details)
-Calendar class(store all of the events data structure)
-CalendarGUI (contains the GUI)
-Main (the main part)
+Event class (a object to store time, name, details, and whether it is completed. It is the most basic unit in our program. It is used to store the data.)
+Calendar class(This calss use an array of linkedList<Event> to store all of the events data structure and check how many events are incompleted. The array consists of 31 items and each item represent a day. The linkedList<Event> is all of events on that day. )
+CalendarGUI (contains the user interface, it can draw the user interface and control its interaction with the users)
+Main (the main part of the program.)
 Test (Test teh functionailty)
 
 ## Edit and Submit this file and any figures referenced by this document.
