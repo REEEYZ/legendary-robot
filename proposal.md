@@ -37,7 +37,15 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+* The events and tasks in a day.
 
+10/26/2018 Friday
+* 1
+Computer Science 400
+Time: 8:50 - 9: 40
+* 2
+Computer Science 240
+Time: 9:55 - 10:45
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
