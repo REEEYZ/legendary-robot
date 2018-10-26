@@ -59,15 +59,25 @@ Note:
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+a GUI and some details
+calendar days events and details
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+1 events
+2 calendar
+3 CalendarGUI
+4 Main
+5 Test
 
 
 Name each interface or class and briefly describe its function or purpose.
 
+Event class (store time, name, details)
+Calendar class(store all of the events data structure)
+CalendarGUI (contains the GUI)
+Main (the main part)
+Test (Test teh functionailty)
 
 ## Edit and Submit this file and any figures referenced by this document.
 
