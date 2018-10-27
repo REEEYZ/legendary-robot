@@ -59,8 +59,8 @@ Note: ---------------
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-a GUI and some details
-calendar days events and details
+[figure 1](https://github.com/REEEYZ/user-interface/blob/master/xteam%20exercise%202b%20ui.jpg)
+
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
