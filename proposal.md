@@ -33,7 +33,7 @@ It is often difficult to keep track of all of events in a day and their details,
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-* Calendar
+* Calendar Lite
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -59,7 +59,9 @@ Note: ---------------
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-[figure 1](https://github.com/REEEYZ/user-interface/blob/master/xteam%20exercise%202b%20ui.jpg)
+* [figure 1](https://github.com/REEEYZ/user-interface/blob/master/xteam%20exercise%202b%20ui.jpg)
+* description:
+In figure1, there is a bar on the top which can serve as a navigator. Users can use it to navigate to the week they want to check. The main calendar is in the center of the screen. The users can check their events there. Every event will be put in teh correct date and time. There is also a check box on top of each event. The users can click on it to mark it as completed or cancelled. If the users double click on a event, there will be a small window poping up to show the details of that event. The users can also edit the details there.
 
 
 
