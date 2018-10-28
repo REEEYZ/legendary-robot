@@ -8,7 +8,7 @@
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:REEEYZ       name 1:Yuzhe Gu
-       * GitHub username 2:dlee384      name 2:Daewon Lee
+       * GitHub username 2:dlee384     name 2:Daewon Lee
        * GitHub username 3:       name 3:
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
