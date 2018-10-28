@@ -10,7 +10,7 @@
        * GitHub username 1:REEEYZ       name 1:Yuzhe Gu
        * GitHub username 2:dlee384      name 2:Daewon Lee
        * GitHub username 3:justinlin97  name 3:Justin Lin
-       * GitHub username 4:       name 4:
+       * GitHub username 4:cliffjdunteman       name 4:CJ Dunteman
        * GitHub username 5:       name 5:
    * When did you complete this exercise?  10/28/2018
    * How long did it take your team to complete this exercise? 1 - 2 hours
