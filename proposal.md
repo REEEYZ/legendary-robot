@@ -1,4 +1,4 @@
-# X-Team 123 Project Proposal
+# X-Team 123 Calendar Lite Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
