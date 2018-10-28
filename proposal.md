@@ -66,20 +66,12 @@ In figure1, there is a bar on the top which can serve as a navigator. Users can 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-* Event
-* Calendar
-* CalendarGUI
-* Main
-* Test
+* Event class - Object to store time, name, details, and whether event is completed. It is the most basic unit in our program. It is used to store data.
+* Calendar class - Custom data structure to store events. Data structure is an array of linkedList<Event> which stores all of the event. The array consists of 31 objects each representing a day. The linkedlist<Event> stores all the events on that day.
+* CalendarGUI - Contains the user interface, it will create the user interface and control its interation with the user.
+* Main - Class used to run the program.
+* Test - Class to test the funcitionality.
 
-
-Name each interface or class and briefly describe its function or purpose.
-
-Event class (a object to store time, name, details, and whether it is completed. It is the most basic unit in our program. It is used to store the data.)
-Calendar class(This calss use an array of linkedList<Event> to store all of the events data structure and check how many events are incompleted. The array consists of 31 items and each item represent a day. The linkedList<Event> is all of events on that day. )
-CalendarGUI (contains the user interface, it can draw the user interface and control its interaction with the users)
-Main (the main part of the program.)
-Test (Test teh functionailty)
 
 ## Edit and Submit this file and any figures referenced by this document.
 
